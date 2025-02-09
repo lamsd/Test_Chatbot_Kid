@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+transformers
+sentencepiece
+flask
+vosk
+language_tool_python
+coqui-tts
+sounddevice
+numpy
